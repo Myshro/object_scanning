@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: a1f1f7332f4aa9e4bb6f8614924c1a64
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 6343639258908390574
+    second: Armature|Retopo_pants.001|pants.001|syatuAction.001
+  - first:
+      74: 8302846986884287276
+    second: Armature|Retopo_pants.002|Retopo_pants.001|Retopo_pants.001|pants.001|sy
+  - first:
+      74: -1559965760447399929
+    second: Armature|Retopo_pants.002|Retopo_pants.001|syatuAction.001
+  - first:
+      74: -7824757172924769459
+    second: pants|Retopo_pants.001|pants.001|syatuAction.001
+  - first:
+      74: 6154682075833558870
+    second: pants|Retopo_pants.002|Retopo_pants.001|Retopo_pants.001|pants.001|sy
+  - first:
+      74: -1497806580783629535
+    second: pants|Retopo_pants.002|Retopo_pants.001|syatuAction.001
+  - first:
+      74: -2020639111786012653
+    second: Body|Retopo_pants.001|pants.001|syatuAction.001
+  - first:
+      74: -3236313360452795822
+    second: Body|Retopo_pants.002|Retopo_pants.001|Retopo_pants.001|pants.001|sy
+  - first:
+      74: -3540552598993177752
+    second: Body|Retopo_pants.002|Retopo_pants.001|syatuAction.001
+  - first:
+      74: -2370304916164413263
+    second: Haolan_Body|Retopo_pants.001|pants.001|syatuAction.001
+  - first:
+      74: 822189345563121952
+    second: Haolan_Body|Retopo_pants.002|Retopo_pants.001|Retopo_pants.001|pants.001|sy
+  - first:
+      74: 3580844401653787314
+    second: Haolan_Body|Retopo_pants.002|Retopo_pants.001|syatuAction.001
+  - first:
+      74: -881813867938379726
+    second: HAOLAN_Outerwear|Retopo_pants.001|pants.001|syatuAction.001
+  - first:
+      74: 8157403403399284086
+    second: HAOLAN_Outerwear|Retopo_pants.002|Retopo_pants.001|Retopo_pants.001|pants.001|sy
+  - first:
+      74: -200848475558935177
+    second: HAOLAN_Outerwear|Retopo_pants.002|Retopo_pants.001|syatuAction.001
+  - first:
+      74: 3420231477965316296
+    second: HAOLAN_sneakers|Retopo_pants.001|pants.001|syatuAction.001
+  - first:
+      74: 2151018269902515185
+    second: HAOLAN_sneakers|Retopo_pants.002|Retopo_pants.001|Retopo_pants.001|pants.001|sy
+  - first:
+      74: 6431909277433784449
+    second: HAOLAN_sneakers|Retopo_pants.002|Retopo_pants.001|syatuAction.001
+  - first:
+      74: -1572264453621824776
+    second: ' HAOLAN_Buggy pants|Retopo_pants.001|pants.001|syatuAction.001'
+  - first:
+      74: -3740827872634098760
+    second: ' HAOLAN_Buggy pants|Retopo_pants.002|Retopo_pants.001|Retopo_pants.001|pants.001|sy'
+  - first:
+      74: 4441575973663529457
+    second: ' HAOLAN_Buggy pants|Retopo_pants.002|Retopo_pants.001|syatuAction.001'
+  - first:
+      74: 3832759764567074280
+    second: HAOLAN_inner|Retopo_pants.001|pants.001|syatuAction.001
+  - first:
+      74: -3199875299218385184
+    second: HAOLAN_inner|Retopo_pants.002|Retopo_pants.001|Retopo_pants.001|pants.001|sy
+  - first:
+      74: -5673893235857522090
+    second: HAOLAN_inner|Retopo_pants.002|Retopo_pants.001|syatuAction.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
